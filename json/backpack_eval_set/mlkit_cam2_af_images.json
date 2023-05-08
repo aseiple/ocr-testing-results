@@ -1,0 +1,864 @@
+{
+    "mlkit_cam2_af_images": [{
+            "id": "001",
+            "time_ms": 196,
+            "plaintext": "ONE WAY 14 Street Station 123 & PATH at 14 St & 6 Av",
+            "regions": [{
+                    "text": "ONE WAY",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 850,
+                            "y": 235
+                        }, {
+                            "x": 964,
+                            "y": 235
+                        }, {
+                            "x": 964,
+                            "y": 253
+                        }, {
+                            "x": 850,
+                            "y": 253
+                        }
+                    ]
+                }, {
+                    "text": "14 Street Station",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 596,
+                            "y": 594
+                        }, {
+                            "x": 1132,
+                            "y": 594
+                        }, {
+                            "x": 1132,
+                            "y": 650
+                        }, {
+                            "x": 596,
+                            "y": 650
+                        }
+                    ]
+                }, {
+                    "text": "123",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 584,
+                            "y": 672
+                        }, {
+                            "x": 982,
+                            "y": 672
+                        }, {
+                            "x": 982,
+                            "y": 774
+                        }, {
+                            "x": 584,
+                            "y": 774
+                        }
+                    ]
+                }, {
+                    "text": "& PATH at 14 St & 6 Av",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 781,
+                            "y": 831
+                        }, {
+                            "x": 1143,
+                            "y": 826
+                        }, {
+                            "x": 1143,
+                            "y": 851
+                        }, {
+                            "x": 781,
+                            "y": 856
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "002",
+            "time_ms": 145,
+            "plaintext": "14 Street Station 1 23 LFM& PATH at 14 St & 6 Av Enter with or buy MetroCard at all times or see agent at 14 Street & 7 Avenue",
+            "regions": [{
+                    "text": "14 Street Station",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 474,
+                            "y": 87
+                        }, {
+                            "x": 1352,
+                            "y": 107
+                        }, {
+                            "x": 1349,
+                            "y": 194
+                        }, {
+                            "x": 471,
+                            "y": 174
+                        }
+                    ]
+                }, {
+                    "text": "1 23",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 468,
+                            "y": 220
+                        }, {
+                            "x": 1025,
+                            "y": 233
+                        }, {
+                            "x": 1021,
+                            "y": 380
+                        }, {
+                            "x": 464,
+                            "y": 367
+                        }
+                    ]
+                }, {
+                    "text": "LFM& PATH at 14 St & 6 Av",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 454,
+                            "y": 458
+                        }, {
+                            "x": 1364,
+                            "y": 482
+                        }, {
+                            "x": 1362,
+                            "y": 539
+                        }, {
+                            "x": 452,
+                            "y": 515
+                        }
+                    ]
+                }, {
+                    "text": "Enter with or buy MetroCard\nat all times or see agent at\n14 Street & 7 Avenue",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 204,
+                            "y": 818
+                        }, {
+                            "x": 1447,
+                            "y": 844
+                        }, {
+                            "x": 1441,
+                            "y": 1106
+                        }, {
+                            "x": 198,
+                            "y": 1080
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "003",
+            "time_ms": 143,
+            "plaintext": "Downtown 12 & Brooklyn 3",
+            "regions": [{
+                    "text": "Downtown 12\n& Brooklyn",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 675,
+                            "y": 448
+                        }, {
+                            "x": 1046,
+                            "y": 438
+                        }, {
+                            "x": 1048,
+                            "y": 525
+                        }, {
+                            "x": 677,
+                            "y": 535
+                        }
+                    ]
+                }, {
+                    "text": "3",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 945,
+                            "y": 509
+                        }, {
+                            "x": 966,
+                            "y": 509
+                        }, {
+                            "x": 966,
+                            "y": 540
+                        }, {
+                            "x": 945,
+                            "y": 540
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "004",
+            "time_ms": 156,
+            "plaintext": "Local Express 23 14 Street lbcal trock",
+            "regions": [{
+                    "text": "Local",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 71,
+                            "y": 548
+                        }, {
+                            "x": 213,
+                            "y": 553
+                        }, {
+                            "x": 211,
+                            "y": 594
+                        }, {
+                            "x": 69,
+                            "y": 589
+                        }
+                    ]
+                }, {
+                    "text": "Express\n23",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 874,
+                            "y": 576
+                        }, {
+                            "x": 1077,
+                            "y": 579
+                        }, {
+                            "x": 1074,
+                            "y": 713
+                        }, {
+                            "x": 871,
+                            "y": 710
+                        }
+                    ]
+                }, {
+                    "text": "14",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1143,
+                            "y": 817
+                        }, {
+                            "x": 1200,
+                            "y": 817
+                        }, {
+                            "x": 1200,
+                            "y": 860
+                        }, {
+                            "x": 1143,
+                            "y": 860
+                        }
+                    ]
+                }, {
+                    "text": "Street",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1132,
+                            "y": 855
+                        }, {
+                            "x": 1229,
+                            "y": 857
+                        }, {
+                            "x": 1228,
+                            "y": 887
+                        }, {
+                            "x": 1131,
+                            "y": 885
+                        }
+                    ]
+                }, {
+                    "text": "lbcal trock",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1760,
+                            "y": 738
+                        }, {
+                            "x": 1909,
+                            "y": 747
+                        }, {
+                            "x": 1906,
+                            "y": 788
+                        }, {
+                            "x": 1757,
+                            "y": 779
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "005",
+            "time_ms": 193,
+            "plaintext": "14 Street TExit 13 St, 14 St 4L @@ PATih 7 Avenue & 24 hr booth 14 Street Litter Stops Here",
+            "regions": [{
+                    "text": "14\nStreet",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 443,
+                            "y": 634
+                        }, {
+                            "x": 524,
+                            "y": 633
+                        }, {
+                            "x": 524,
+                            "y": 678
+                        }, {
+                            "x": 443,
+                            "y": 679
+                        }
+                    ]
+                }, {
+                    "text": "TExit",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 577,
+                            "y": 458
+                        }, {
+                            "x": 829,
+                            "y": 462
+                        }, {
+                            "x": 827,
+                            "y": 531
+                        }, {
+                            "x": 575,
+                            "y": 527
+                        }
+                    ]
+                }, {
+                    "text": "13 St, 14 St 4L @@ PATih\n7 Avenue &\n24 hr booth",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 822,
+                            "y": 459
+                        }, {
+                            "x": 1168,
+                            "y": 475
+                        }, {
+                            "x": 1164,
+                            "y": 546
+                        }, {
+                            "x": 818,
+                            "y": 530
+                        }
+                    ]
+                }, {
+                    "text": "14\nStreet",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1134,
+                            "y": 634
+                        }, {
+                            "x": 1204,
+                            "y": 634
+                        }, {
+                            "x": 1204,
+                            "y": 680
+                        }, {
+                            "x": 1134,
+                            "y": 680
+                        }
+                    ]
+                }, {
+                    "text": "Litter\nStops Here",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1032,
+                            "y": 898
+                        }, {
+                            "x": 1158,
+                            "y": 898
+                        }, {
+                            "x": 1158,
+                            "y": 947
+                        }, {
+                            "x": 1032,
+                            "y": 947
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "006",
+            "time_ms": 145,
+            "plaintext": "TExit 13 SL 4 St ^LO PATH 7 Averue & 24 hr booth 14",
+            "regions": [{
+                    "text": "TExit",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 40,
+                            "y": 229
+                        }, {
+                            "x": 365,
+                            "y": 232
+                        }, {
+                            "x": 363,
+                            "y": 326
+                        }, {
+                            "x": 38,
+                            "y": 323
+                        }
+                    ]
+                }, {
+                    "text": "13 SL 4 St ^LO PATH\n7 Averue &\n24 hr booth",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 380,
+                            "y": 233
+                        }, {
+                            "x": 900,
+                            "y": 250
+                        }, {
+                            "x": 896,
+                            "y": 345
+                        }, {
+                            "x": 376,
+                            "y": 328
+                        }
+                    ]
+                }, {
+                    "text": "14",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 966,
+                            "y": 486
+                        }, {
+                            "x": 1015,
+                            "y": 486
+                        }, {
+                            "x": 1015,
+                            "y": 513
+                        }, {
+                            "x": 966,
+                            "y": 513
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "007",
+            "time_ms": 115,
+            "plaintext": "TExit 13 Street & 7 Avenue",
+            "regions": [{
+                    "text": "TExit",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 360,
+                            "y": 339
+                        }, {
+                            "x": 655,
+                            "y": 333
+                        }, {
+                            "x": 656,
+                            "y": 419
+                        }, {
+                            "x": 361,
+                            "y": 425
+                        }
+                    ]
+                }, {
+                    "text": "13 Street &\n7 Avenue",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 679,
+                            "y": 335
+                        }, {
+                            "x": 867,
+                            "y": 342
+                        }, {
+                            "x": 864,
+                            "y": 409
+                        }, {
+                            "x": 676,
+                            "y": 402
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "008",
+            "time_ms": 164,
+            "plaintext": "14 Street Iuth Ferry BXFlatbuah Ay-Bkiyn Gai TExit 14 Street 7 Avenue 24 hr booth min min ↑006PATH 14 Stroet",
+            "regions": [{
+                    "text": "14\nStreet",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 228,
+                            "y": 494
+                        }, {
+                            "x": 319,
+                            "y": 494
+                        }, {
+                            "x": 319,
+                            "y": 557
+                        }, {
+                            "x": 228,
+                            "y": 557
+                        }
+                    ]
+                }, {
+                    "text": "Iuth Ferry\nBXFlatbuah Ay-Bkiyn Gai",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 544,
+                            "y": 224
+                        }, {
+                            "x": 861,
+                            "y": 224
+                        }, {
+                            "x": 861,
+                            "y": 288
+                        }, {
+                            "x": 544,
+                            "y": 288
+                        }
+                    ]
+                }, {
+                    "text": "TExit",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 367,
+                            "y": 347
+                        }, {
+                            "x": 642,
+                            "y": 352
+                        }, {
+                            "x": 640,
+                            "y": 434
+                        }, {
+                            "x": 365,
+                            "y": 429
+                        }
+                    ]
+                }, {
+                    "text": "14 Street\n7 Avenue\n24 hr booth",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 669,
+                            "y": 349
+                        }, {
+                            "x": 826,
+                            "y": 353
+                        }, {
+                            "x": 823,
+                            "y": 432
+                        }, {
+                            "x": 666,
+                            "y": 428
+                        }
+                    ]
+                }, {
+                    "text": "min\nmin",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 905,
+                            "y": 220
+                        }, {
+                            "x": 975,
+                            "y": 223
+                        }, {
+                            "x": 972,
+                            "y": 288
+                        }, {
+                            "x": 902,
+                            "y": 285
+                        }
+                    ]
+                }, {
+                    "text": "↑006PATH",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 874,
+                            "y": 354
+                        }, {
+                            "x": 1108,
+                            "y": 341
+                        }, {
+                            "x": 1110,
+                            "y": 381
+                        }, {
+                            "x": 876,
+                            "y": 394
+                        }
+                    ]
+                }, {
+                    "text": "14\nStroet",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1171,
+                            "y": 489
+                        }, {
+                            "x": 1308,
+                            "y": 486
+                        }, {
+                            "x": 1309,
+                            "y": 554
+                        }, {
+                            "x": 1172,
+                            "y": 557
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "009",
+            "time_ms": 134,
+            "plaintext": "TEXit 14St &7 Av 24 hour booth PATH 6530",
+            "regions": [{
+                    "text": "TEXit",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 294,
+                            "y": 235
+                        }, {
+                            "x": 769,
+                            "y": 301
+                        }, {
+                            "x": 753,
+                            "y": 414
+                        }, {
+                            "x": 278,
+                            "y": 348
+                        }
+                    ]
+                }, {
+                    "text": "14St &7 Av\n24 hour booth",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 755,
+                            "y": 296
+                        }, {
+                            "x": 1137,
+                            "y": 365
+                        }, {
+                            "x": 1117,
+                            "y": 470
+                        }, {
+                            "x": 735,
+                            "y": 401
+                        }
+                    ]
+                }, {
+                    "text": "PATH",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1218,
+                            "y": 454
+                        }, {
+                            "x": 1295,
+                            "y": 463
+                        }, {
+                            "x": 1291,
+                            "y": 494
+                        }, {
+                            "x": 1214,
+                            "y": 485
+                        }
+                    ]
+                }, {
+                    "text": "6530",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1663,
+                            "y": 650
+                        }, {
+                            "x": 1839,
+                            "y": 645
+                        }, {
+                            "x": 1840,
+                            "y": 711
+                        }, {
+                            "x": 1664,
+                            "y": 716
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "010",
+            "time_ms": 126,
+            "plaintext": "Uptown & The Bronx",
+            "regions": [{
+                    "text": "Uptown &\nThe Bronx",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 677,
+                            "y": 423
+                        }, {
+                            "x": 945,
+                            "y": 425
+                        }, {
+                            "x": 943,
+                            "y": 533
+                        }, {
+                            "x": 675,
+                            "y": 531
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "011",
+            "time_ms": 151,
+            "plaintext": "e233 S? 721238 St NY RD one 13 St, 12 St &7 Avenue STExit 14 Street",
+            "regions": [{
+                    "text": "e233 S?\n721238 St",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 159,
+                            "y": 282
+                        }, {
+                            "x": 337,
+                            "y": 280
+                        }, {
+                            "x": 337,
+                            "y": 346
+                        }, {
+                            "x": 159,
+                            "y": 348
+                        }
+                    ]
+                }, {
+                    "text": "NY\nRD",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": -16,
+                            "y": 448
+                        }, {
+                            "x": 175,
+                            "y": 485
+                        }, {
+                            "x": 135,
+                            "y": 687
+                        }, {
+                            "x": -56,
+                            "y": 650
+                        }
+                    ]
+                }, {
+                    "text": "one",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": -7,
+                            "y": 689
+                        }, {
+                            "x": 55,
+                            "y": 693
+                        }, {
+                            "x": 53,
+                            "y": 715
+                        }, {
+                            "x": -9,
+                            "y": 711
+                        }
+                    ]
+                }, {
+                    "text": "13 St, 12 St\n&7 Avenue",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 448,
+                            "y": 456
+                        }, {
+                            "x": 710,
+                            "y": 459
+                        }, {
+                            "x": 708,
+                            "y": 547
+                        }, {
+                            "x": 446,
+                            "y": 544
+                        }
+                    ]
+                }, {
+                    "text": "STExit",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 178,
+                            "y": 462
+                        }, {
+                            "x": 473,
+                            "y": 462
+                        }, {
+                            "x": 473,
+                            "y": 545
+                        }, {
+                            "x": 178,
+                            "y": 545
+                        }
+                    ]
+                }, {
+                    "text": "14\nStreet",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 995,
+                            "y": 613
+                        }, {
+                            "x": 1110,
+                            "y": 613
+                        }, {
+                            "x": 1110,
+                            "y": 692
+                        }, {
+                            "x": 995,
+                            "y": 692
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "012",
+            "time_ms": 156,
+            "plaintext": "Uptown & The Bronx via 7 Av Local TO Van Cortlandt Park-242St. Late nights to Walkefield-241 St also stops here.",
+            "regions": [{
+                    "text": "Uptown &\nThe Bronx via\n7 Av Local",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 148,
+                            "y": 229
+                        }, {
+                            "x": 578,
+                            "y": 268
+                        }, {
+                            "x": 562,
+                            "y": 435
+                        }, {
+                            "x": 132,
+                            "y": 396
+                        }
+                    ]
+                }, {
+                    "text": "TO Van Cortlandt Park-242St.\nLate nights to Walkefield-241 St\nalso stops here.",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 766,
+                            "y": 300
+                        }, {
+                            "x": 1592,
+                            "y": 379
+                        }, {
+                            "x": 1576,
+                            "y": 538
+                        }, {
+                            "x": 750,
+                            "y": 459
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "013",
+            "time_ms": 158,
+            "plaintext": "Exit 12 St & 7 Ay",
+            "regions": [{
+                    "text": "Exit 12 St & 7 Ay",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": -13,
+                            "y": 78
+                        }, {
+                            "x": 626,
+                            "y": 136
+                        }, {
+                            "x": 619,
+                            "y": 205
+                        }, {
+                            "x": -20,
+                            "y": 147
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

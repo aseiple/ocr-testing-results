@@ -1,0 +1,694 @@
+{
+    "mlkit_cam1_old_wide_images": [{
+            "id": "001",
+            "time_ms": 244,
+            "plaintext": "14 Street Station 123 & PATH at 14 St& 6 Av Enter wvith or buy MetroCard at all times or see agent at 14 Street & 7 Avenue",
+            "regions": [{
+                    "text": "14 Street Station\n123",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 703,
+                            "y": 607
+                        }, {
+                            "x": 1028,
+                            "y": 607
+                        }, {
+                            "x": 1028,
+                            "y": 712
+                        }, {
+                            "x": 703,
+                            "y": 712
+                        }
+                    ]
+                }, {
+                    "text": "& PATH at 14 St& 6 Av",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 811,
+                            "y": 749
+                        }, {
+                            "x": 1034,
+                            "y": 751
+                        }, {
+                            "x": 1033,
+                            "y": 771
+                        }, {
+                            "x": 810,
+                            "y": 769
+                        }
+                    ]
+                }, {
+                    "text": "Enter wvith or buy MetroCard\nat all times or see agent at\n14 Street & 7 Avenue",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 656,
+                            "y": 878
+                        }, {
+                            "x": 1051,
+                            "y": 891
+                        }, {
+                            "x": 1048,
+                            "y": 975
+                        }, {
+                            "x": 653,
+                            "y": 962
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "002",
+            "time_ms": 172,
+            "plaintext": "14 Street Station 12 3 LFM & PATH at 14 St & 6 Ay Enter with or buy MetroCard at all times or see agent at 14 Street & 7 Avenue",
+            "regions": [{
+                    "text": "14 Street Station",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 561,
+                            "y": 133
+                        }, {
+                            "x": 1113,
+                            "y": 158
+                        }, {
+                            "x": 1110,
+                            "y": 208
+                        }, {
+                            "x": 558,
+                            "y": 183
+                        }
+                    ]
+                }, {
+                    "text": "12 3",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 556,
+                            "y": 208
+                        }, {
+                            "x": 904,
+                            "y": 201
+                        }, {
+                            "x": 905,
+                            "y": 284
+                        }, {
+                            "x": 557,
+                            "y": 291
+                        }
+                    ]
+                }, {
+                    "text": "LFM & PATH at 14 St & 6 Ay",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 516,
+                            "y": 333
+                        }, {
+                            "x": 1140,
+                            "y": 354
+                        }, {
+                            "x": 1138,
+                            "y": 391
+                        }, {
+                            "x": 514,
+                            "y": 370
+                        }
+                    ]
+                }, {
+                    "text": "Enter with or buy MetroCard\nat all times or see agent at\n14 Street & 7 Avenue",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 358,
+                            "y": 506
+                        }, {
+                            "x": 1234,
+                            "y": 538
+                        }, {
+                            "x": 1226,
+                            "y": 741
+                        }, {
+                            "x": 350,
+                            "y": 709
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "003",
+            "time_ms": 140,
+            "plaintext": "Downtown2 Brookyn",
+            "regions": [{
+                    "text": "Downtown2\nBrookyn",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 491,
+                            "y": 481
+                        }, {
+                            "x": 727,
+                            "y": 482
+                        }, {
+                            "x": 726,
+                            "y": 550
+                        }, {
+                            "x": 490,
+                            "y": 549
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "004",
+            "time_ms": 141,
+            "plaintext": "Local Express 23 14 Street nts takea to Frankln Av for",
+            "regions": [{
+                    "text": "Local",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 398,
+                            "y": 493
+                        }, {
+                            "x": 472,
+                            "y": 493
+                        }, {
+                            "x": 472,
+                            "y": 518
+                        }, {
+                            "x": 398,
+                            "y": 518
+                        }
+                    ]
+                }, {
+                    "text": "Express",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 829,
+                            "y": 507
+                        }, {
+                            "x": 946,
+                            "y": 514
+                        }, {
+                            "x": 944,
+                            "y": 543
+                        }, {
+                            "x": 827,
+                            "y": 536
+                        }
+                    ]
+                }, {
+                    "text": "23",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 857,
+                            "y": 555
+                        }, {
+                            "x": 934,
+                            "y": 555
+                        }, {
+                            "x": 934,
+                            "y": 585
+                        }, {
+                            "x": 857,
+                            "y": 585
+                        }
+                    ]
+                }, {
+                    "text": "14",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 980,
+                            "y": 696
+                        }, {
+                            "x": 1026,
+                            "y": 696
+                        }, {
+                            "x": 1026,
+                            "y": 718
+                        }, {
+                            "x": 980,
+                            "y": 718
+                        }
+                    ]
+                }, {
+                    "text": "Street",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 979,
+                            "y": 718
+                        }, {
+                            "x": 1034,
+                            "y": 718
+                        }, {
+                            "x": 1034,
+                            "y": 731
+                        }, {
+                            "x": 979,
+                            "y": 731
+                        }
+                    ]
+                }, {
+                    "text": "nts takea\nto Frankln Av for",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1466,
+                            "y": 586
+                        }, {
+                            "x": 1668,
+                            "y": 550
+                        }, {
+                            "x": 1678,
+                            "y": 612
+                        }, {
+                            "x": 1476,
+                            "y": 648
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "005",
+            "time_ms": 170,
+            "plaintext": "4 Steet",
+            "regions": [{
+                    "text": "4 Steet",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 953,
+                            "y": 338
+                        }, {
+                            "x": 1240,
+                            "y": 116
+                        }, {
+                            "x": 1288,
+                            "y": 179
+                        }, {
+                            "x": 1001,
+                            "y": 401
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "006",
+            "time_ms": 138,
+            "plaintext": "Exit tt0gPATH",
+            "regions": [{
+                    "text": "Exit tt0gPATH",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 364,
+                            "y": 429
+                        }, {
+                            "x": 878,
+                            "y": 387
+                        }, {
+                            "x": 882,
+                            "y": 438
+                        }, {
+                            "x": 368,
+                            "y": 480
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "007",
+            "time_ms": 115,
+            "plaintext": "2280 TExit P",
+            "regions": [{
+                    "text": "2280",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 24,
+                            "y": 479
+                        }, {
+                            "x": 128,
+                            "y": 490
+                        }, {
+                            "x": 123,
+                            "y": 534
+                        }, {
+                            "x": 19,
+                            "y": 523
+                        }
+                    ]
+                }, {
+                    "text": "TExit P",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 536,
+                            "y": 347
+                        }, {
+                            "x": 896,
+                            "y": 304
+                        }, {
+                            "x": 902,
+                            "y": 358
+                        }, {
+                            "x": 542,
+                            "y": 401
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "008",
+            "time_ms": 140,
+            "plaintext": "Exit E ↑60 PATH Strest",
+            "regions": [{
+                    "text": "Exit E",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 532,
+                            "y": 444
+                        }, {
+                            "x": 810,
+                            "y": 450
+                        }, {
+                            "x": 808,
+                            "y": 499
+                        }, {
+                            "x": 530,
+                            "y": 493
+                        }
+                    ]
+                }, {
+                    "text": "↑60 PATH",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 831,
+                            "y": 447
+                        }, {
+                            "x": 997,
+                            "y": 448
+                        }, {
+                            "x": 996,
+                            "y": 474
+                        }, {
+                            "x": 830,
+                            "y": 473
+                        }
+                    ]
+                }, {
+                    "text": "Strest",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1046,
+                            "y": 570
+                        }, {
+                            "x": 1105,
+                            "y": 570
+                        }, {
+                            "x": 1105,
+                            "y": 588
+                        }, {
+                            "x": 1046,
+                            "y": 588
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "009",
+            "time_ms": 117,
+            "plaintext": "TEXIL hOur bo",
+            "regions": [{
+                    "text": "TEXIL",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 652,
+                            "y": 430
+                        }, {
+                            "x": 1067,
+                            "y": 460
+                        }, {
+                            "x": 1063,
+                            "y": 510
+                        }, {
+                            "x": 648,
+                            "y": 480
+                        }
+                    ]
+                }, {
+                    "text": "hOur bo",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 903,
+                            "y": 478
+                        }, {
+                            "x": 1086,
+                            "y": 508
+                        }, {
+                            "x": 1080,
+                            "y": 540
+                        }, {
+                            "x": 897,
+                            "y": 510
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "010",
+            "time_ms": 145,
+            "plaintext": "Uptown & The Bro",
+            "regions": [{
+                    "text": "Uptown &\nThe Bro",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 571,
+                            "y": 447
+                        }, {
+                            "x": 730,
+                            "y": 453
+                        }, {
+                            "x": 727,
+                            "y": 518
+                        }, {
+                            "x": 568,
+                            "y": 512
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "011",
+            "time_ms": 164,
+            "plaintext": "CARD infor anyone 3S4, R St Exit R7Avenue 14",
+            "regions": [{
+                    "text": "CARD",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 511,
+                            "y": 571
+                        }, {
+                            "x": 706,
+                            "y": 607
+                        }, {
+                            "x": 693,
+                            "y": 673
+                        }, {
+                            "x": 498,
+                            "y": 637
+                        }
+                    ]
+                }, {
+                    "text": "infor anyone",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 535,
+                            "y": 661
+                        }, {
+                            "x": 672,
+                            "y": 682
+                        }, {
+                            "x": 668,
+                            "y": 706
+                        }, {
+                            "x": 531,
+                            "y": 685
+                        }
+                    ]
+                }, {
+                    "text": "3S4, R St",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 931,
+                            "y": 541
+                        }, {
+                            "x": 1089,
+                            "y": 524
+                        }, {
+                            "x": 1092,
+                            "y": 558
+                        }, {
+                            "x": 934,
+                            "y": 575
+                        }
+                    ]
+                }, {
+                    "text": "Exit R7Avenue",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 750,
+                            "y": 552
+                        }, {
+                            "x": 1103,
+                            "y": 557
+                        }, {
+                            "x": 1102,
+                            "y": 605
+                        }, {
+                            "x": 749,
+                            "y": 600
+                        }
+                    ]
+                }, {
+                    "text": "14",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1321,
+                            "y": 614
+                        }, {
+                            "x": 1361,
+                            "y": 614
+                        }, {
+                            "x": 1361,
+                            "y": 645
+                        }, {
+                            "x": 1321,
+                            "y": 645
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "012",
+            "time_ms": 146,
+            "plaintext": "The Bronx via 7 Av Local also stops here. -241 S 14 Street tExit",
+            "regions": [{
+                    "text": "The Bronx via\n7 Av Local",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 493,
+                            "y": 452
+                        }, {
+                            "x": 672,
+                            "y": 465
+                        }, {
+                            "x": 667,
+                            "y": 520
+                        }, {
+                            "x": 488,
+                            "y": 507
+                        }
+                    ]
+                }, {
+                    "text": "also stops here.",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 777,
+                            "y": 506
+                        }, {
+                            "x": 995,
+                            "y": 528
+                        }, {
+                            "x": 991,
+                            "y": 557
+                        }, {
+                            "x": 773,
+                            "y": 535
+                        }
+                    ]
+                }, {
+                    "text": "-241 S",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1073,
+                            "y": 519
+                        }, {
+                            "x": 1186,
+                            "y": 524
+                        }, {
+                            "x": 1184,
+                            "y": 550
+                        }, {
+                            "x": 1071,
+                            "y": 545
+                        }
+                    ]
+                }, {
+                    "text": "14",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1548,
+                            "y": 606
+                        }, {
+                            "x": 1577,
+                            "y": 600
+                        }, {
+                            "x": 1582,
+                            "y": 632
+                        }, {
+                            "x": 1553,
+                            "y": 638
+                        }
+                    ]
+                }, {
+                    "text": "Street",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1550,
+                            "y": 642
+                        }, {
+                            "x": 1610,
+                            "y": 630
+                        }, {
+                            "x": 1614,
+                            "y": 652
+                        }, {
+                            "x": 1554,
+                            "y": 664
+                        }
+                    ]
+                }, {
+                    "text": "tExit",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 1822,
+                            "y": 538
+                        }, {
+                            "x": 1905,
+                            "y": 513
+                        }, {
+                            "x": 1916,
+                            "y": 552
+                        }, {
+                            "x": 1833,
+                            "y": 577
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "013",
+            "time_ms": 113,
+            "plaintext": "TEXi2 St & 7 Av",
+            "regions": [{
+                    "text": "TEXi2 St & 7 Av",
+                    "confidence": 1,
+                    "bounding_box": [{
+                            "x": 276,
+                            "y": 298
+                        }, {
+                            "x": 675,
+                            "y": 273
+                        }, {
+                            "x": 677,
+                            "y": 319
+                        }, {
+                            "x": 278,
+                            "y": 344
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
